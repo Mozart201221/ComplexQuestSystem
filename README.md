@@ -8,3 +8,4 @@ Quest logic in a simple game
 5. Сreating the ability to display information on the screen about current tasks.
 6. Conclusion for a certain quest all its subquests in the widget. The hero selects the quest he is interested in using the cursor
 7. A pointer towards the target is created. The calculation of the distance from the player to the target is made. The target on the map is indicated only of a certain type
+8. Interacting with NPCs and accepting a quest to complete (Not a line tracing system, but a trigger)
