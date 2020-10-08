@@ -11,3 +11,4 @@ Quest logic in a simple game
 8. Interacting with NPCs and accepting a quest to complete (Not a line tracing system, but a trigger)
 9. Adding a target search zone by radius and location to the mini-map. NPC designation with a question mark. Basic NPC Movement (in MasterNPC with moveTo)
 10. The logic for creating animation for the menu and target closing logic
+11. Quest log design
