@@ -12,3 +12,4 @@ Quest logic in a simple game
 9. Adding a target search zone by radius and location to the mini-map. NPC designation with a question mark. Basic NPC Movement (in MasterNPC with moveTo)
 10. The logic for creating animation for the menu and target closing logic
 11. Quest log design
+12. Creation of a description of goals and completion of the design of the quest journal
