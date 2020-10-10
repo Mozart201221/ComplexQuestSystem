@@ -14,3 +14,4 @@ Quest logic in a simple game
 11. Quest log design
 12. Creation of a description of goals and completion of the design of the quest journal
 13. Logic for the quest log
+14. Pulling up information on the quest in the journal and the ability to switch between quests
