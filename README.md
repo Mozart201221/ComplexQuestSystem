@@ -13,3 +13,4 @@ Quest logic in a simple game
 10. The logic for creating animation for the menu and target closing logic
 11. Quest log design
 12. Creation of a description of goals and completion of the design of the quest journal
+13. Logic for the quest log
