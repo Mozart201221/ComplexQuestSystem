@@ -16,3 +16,5 @@ Quest logic in a simple game
 13. Logic for the quest log
 14. Pulling up information on the quest in the journal and the ability to switch between quests
 15. Adding a life system and preparing an enemy class
+16. Adding behavior for the enemy (Logic of movement, attack and pursuit of the player)
+
