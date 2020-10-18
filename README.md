@@ -18,3 +18,4 @@ Quest logic in a simple game
 15. Adding a life system and preparing an enemy class
 16. Adding behavior for the enemy (Logic of movement, attack and pursuit of the player)
 17. Creating a health widget for the enemy. Adding a simple attack for the player (LBM to launch aoe attack)
+18. Completion of the HUNT type quest. Auxiliary logic for returning to the patrol point
