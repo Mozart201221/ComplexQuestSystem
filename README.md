@@ -21,3 +21,4 @@ Quest logic in a simple game
 18. Completion of the HUNT type quest. Auxiliary logic for returning to the patrol point
 19. Implementation of a quest to find an item.
 20. Сlosing the quest if the item was found acceptance prior to the quest
+21. Template for a quest where you need to talk to an NPC
