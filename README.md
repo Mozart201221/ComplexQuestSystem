@@ -23,3 +23,4 @@ Quest logic in a simple game
 20. Сlosing the quest if the item was found acceptance prior to the quest
 21. Template for a quest where you need to talk to an NPC
 22. Implementing spawn enemies and logic for setting prestigious points in the selected location
+23. Quest Completion Logic - Success or Failed
