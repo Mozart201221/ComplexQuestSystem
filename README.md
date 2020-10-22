@@ -24,3 +24,4 @@ Quest logic in a simple game
 21. Template for a quest where you need to talk to an NPC
 22. Implementing spawn enemies and logic for setting prestigious points in the selected location
 23. Quest Completion Logic - Success or Failed
+24. Refusal of a quest from a specific NPC
