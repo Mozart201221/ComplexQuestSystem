@@ -27,3 +27,4 @@ Quest logic in a simple game
 24. Refusal of a quest from a specific NPC
 25. The logic in which the NPC will decide whether or not to give the character a quest in terms of his prestige points or experience
 26. Adding a base save slot, a SaveGame class created for all player related variables (experience, health, ...), adding a load function for the player character (An easy way to save game. Not suitable for variables >5)
+27. Upgrade save slots and their operability
