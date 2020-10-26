@@ -28,3 +28,4 @@ Quest logic in a simple game
 25. The logic in which the NPC will decide whether or not to give the character a quest in terms of his prestige points or experience
 26. Adding a base save slot, a SaveGame class created for all player related variables (experience, health, ...), adding a load function for the player character (An easy way to save game. Not suitable for variables >5)
 27. Upgrade save slots and their operability
+28. Completion of the slot-based save and load system by adding a function to which quests are saved. Setting up so that the objects that have been collected are removed when the game is loaded and react correctly to loaded quests (for example, hiding the question mark if their quest was already accepted by the player when the game was saved)
